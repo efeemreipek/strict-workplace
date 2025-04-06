@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e45bc6ec3084009489aa56872649bc9c, type: 3}
+  m_Name: MustBeInStorageAreaRule
+  m_EditorClassIdentifier: 
+  Name: "Area L\u0131m\u0131t"
+  Description: "ALL crates must be \u0131n the storage area."
+  XBounds: {x: -5.5, y: 4.5}
+  ZBounds: {x: -5.5, y: 4.5}
