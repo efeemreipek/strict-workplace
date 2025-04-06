@@ -7,7 +7,7 @@ public class CrateGeneratorUI : MonoBehaviour
 
     public void UpdateText(int amount)
     {
-        string t = "Remaýnýng Crates : ";
+        string t = "Remaining Crates : ";
         remainingCrateCountText.text = t + amount;
     }
 }
