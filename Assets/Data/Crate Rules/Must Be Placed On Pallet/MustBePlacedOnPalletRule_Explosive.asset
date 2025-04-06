@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6ddce12886fcf4c87d2811cfc437b8, type: 3}
   m_Name: MustBePlacedOnPalletRule_Explosive
   m_EditorClassIdentifier: 
-  Name: "Support Un\u0131t - Explos\u0131ve"
+  Name: Support Unit - Explosive
   Description: <color=#4D4D4D>EXPLOSIVE</color> crates must be placed on a pallet.
   TargetType: 5

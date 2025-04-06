@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 661114745f20ae845a7c0c1312492666, type: 3}
   m_Name: MustBeNearSameTypeRule_Blue
   m_EditorClassIdentifier: 
-  Name: "Close Fr\u0131ends - Blue"
+  Name: Close Friends - Blue
   Description: <color=#00B1FF>BLUE</color> crates must be placed around another <color=#00B1FF>BLUE</color>
     crate.
   TargetType: 4

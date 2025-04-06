@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbc526f417840464abbb80deb3a41a02, type: 3}
   m_Name: MustBeAloneRule_Fragile
   m_EditorClassIdentifier: 
-  Name: "Must Be Alone - Frag\u0131le"
+  Name: Must Be Alone - Fragile
   Description: <color=#FF5CE5>FRAGILE</color> crates must not have any crates around
     them.
   TargetType: 7

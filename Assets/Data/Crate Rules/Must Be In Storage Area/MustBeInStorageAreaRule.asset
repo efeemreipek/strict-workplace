@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e45bc6ec3084009489aa56872649bc9c, type: 3}
   m_Name: MustBeInStorageAreaRule
   m_EditorClassIdentifier: 
-  Name: "Area L\u0131m\u0131t"
-  Description: "ALL crates must be \u0131n the storage area."
+  Name: Area Limit
+  Description: ALL crates must be in the storage area.
   XBounds: {x: -5.5, y: 4.5}
   ZBounds: {x: -5.5, y: 4.5}

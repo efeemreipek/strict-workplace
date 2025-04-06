@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6ddce12886fcf4c87d2811cfc437b8, type: 3}
   m_Name: MustBePlacedOnPalletRule_Basic
   m_EditorClassIdentifier: 
-  Name: "Support Un\u0131t - Bas\u0131c"
+  Name: Support Unit - Basic
   Description: <color=#B28D55>BASIC</color> crates must be placed on a pallet.
   TargetType: 1

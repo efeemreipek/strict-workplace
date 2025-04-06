@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b14c0a69650589748a75a184fe439d8a, type: 3}
   m_Name: MustBeNearTypeRule_Fragile_Basic
   m_EditorClassIdentifier: 
-  Name: "Lover Crates - Frag\u0131le"
+  Name: Lover Crates - Fragile
   Description: <color=#FF5CE5>FRAGILE</color> crates must be placed around a <color=#B28D55>BASIC</color>
     crate.
   TargetType: 7

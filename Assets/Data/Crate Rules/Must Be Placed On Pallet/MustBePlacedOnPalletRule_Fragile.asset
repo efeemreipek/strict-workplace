@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6ddce12886fcf4c87d2811cfc437b8, type: 3}
   m_Name: MustBePlacedOnPalletRule_Fragile
   m_EditorClassIdentifier: 
-  Name: "Support Un\u0131t - Frag\u0131le"
+  Name: Support Unit - Fragile
   Description: <color=#FF5CE5>FRAGILE</color> crates must be placed on a pallet.
   TargetType: 7

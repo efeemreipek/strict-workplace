@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbc526f417840464abbb80deb3a41a02, type: 3}
   m_Name: MustBeAloneRule_Basic
   m_EditorClassIdentifier: 
-  Name: "Must Be Alone - Bas\u0131c"
+  Name: Must Be Alone - Basic
   Description: <color=#B28D55>BASIC</color> crates must not have any crates around
     them.
   TargetType: 1

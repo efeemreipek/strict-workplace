@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbc526f417840464abbb80deb3a41a02, type: 3}
   m_Name: MustBeAloneRule_Explosive
   m_EditorClassIdentifier: 
-  Name: "Must Be Alone - Explos\u0131ve"
+  Name: Must Be Alone - Explosive
   Description: <color=#4D4D4D>EXPLOSIVE</color> crates must not have any crates around
     them.
   TargetType: 5

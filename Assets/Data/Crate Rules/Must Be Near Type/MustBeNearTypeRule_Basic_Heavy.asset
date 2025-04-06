@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b14c0a69650589748a75a184fe439d8a, type: 3}
   m_Name: MustBeNearTypeRule_Basic_Heavy
   m_EditorClassIdentifier: 
-  Name: "Lover Crates - Bas\u0131c"
+  Name: Lover Crates - Basic
   Description: <color=#B28D55>BASIC</color> crates must be placed around a <color=#FFC400>HEAVY</color>
     crate.
   TargetType: 1
